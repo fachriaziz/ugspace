@@ -1,0 +1,8 @@
+APP_URL=http://ugspace.test
+
+APP_TIMEZONE=Asia/Jakarta
+DB_HOST=localhost
+DB_USER=root
+DB_PASS=
+DB_NAME=ugspace
+PER_PAGE=10
